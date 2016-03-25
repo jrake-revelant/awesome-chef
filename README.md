@@ -124,6 +124,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [zabbix](https://github.com/laradji/zabbix) - [Zabbix](http://www.zabbix.com/)
 
 ### Network/Security
+* [hardening-framework](https://github.com/dev-sec) - Security + DevOps, Automatic Server Hardening for OS, SSH and selected middleware.
 * [iptables](https://github.com/chef-cookbooks/iptables)
 * [ntp](https://github.com/gmiranda23/ntp)
 * [openldap](https://github.com/chef-cookbooks/openldap)
